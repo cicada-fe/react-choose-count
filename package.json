@@ -1,0 +1,27 @@
+{
+  "name": "react-choose-count",
+  "version": "0.0.3",
+  "description": "react-choose-count",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicada-fe/react-choose-count.git"
+  },
+  "keywords": [
+    "react",
+    "choose"
+  ],
+  "author": "sherlock221b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cicada-fe/react-choose-count/issues"
+  },
+
+  "dependencies": {
+
+  },
+  "homepage": "https://github.com/cicada-fe/react-choose-count#readme"
+}
